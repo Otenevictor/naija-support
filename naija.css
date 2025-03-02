@@ -3,19 +3,19 @@ body {
     padding: 0;
 }
 .news-pic{
-    background-image: url("/Users/victorotene/Documents/dev/event_planning/naijafundraise/photos/kogiflood.jpg");
+    background-image: url("/photos/kogiflood.jpg");
     height: 100vh;
     background-size: cover;
 }
 
 .ngos-pic {
-    background-image: url("/Users/victorotene/Documents/dev/event_planning/naijafundraise/photos/ngos2.jpeg");
+    background-image: url("/photos/ngos2.jpeg");
     height: 100vh;
     background-size: cover;
 }
 
 .top{
-    background-image: url("/Users/victorotene/Documents/dev/event_planning/naijafundraise/photos/9aijatop.jpg");
+    background-image: url("/photos/9aijatop.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
@@ -55,13 +55,13 @@ body {
 
 footer{
     /* background-image:url("/Users/victorotene/Documents/dev/event_planning/naijafundraise/photos/images-14.jpeg"); */
-    background-image:url("/Users/victorotene/Documents/dev/event_planning/naijafundraise/photos/pngtree-natural-earth-advertising-background-picture-image_974437.jpg");
+    background-image:url("/photos/pngtree-natural-earth-advertising-background-picture-image_974437.jpg");
     background-repeat:inherit;
 
 }
 
 .naija_logo {
-    background-image: url("/Users/victorotene/Documents/dev/event_planning/naijafundraise/photos/flooded-farm.jpg");
+    background-image: url("/photos/flooded-farm.jpg");
     /* background-color: blue; */
     height: 100vh;
     background-size: cover;
